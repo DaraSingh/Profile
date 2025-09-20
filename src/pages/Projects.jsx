@@ -23,8 +23,8 @@ function Projects() {
       description:
         "Responsive personal portfolio built with React, Vite, and Tailwind showcasing projects and achievements.",
       tech: ["React", "Tailwind", "Vite"],
-      link: "https://github.com/yourgithub/portfolio",
-      demo: "#"
+      link: "https://github.com/DaraSingh/Profile",
+      demo: "https://daraprofile.netlify.app/"
     }
   ]
   return (
