@@ -62,14 +62,6 @@ export default function Home() {
           </div>
         </div>
       </section>
-
-      {/* Optional Placeholder Section for Visual Balance */}
-      <section className="min-h-screen flex flex-col items-center justify-center px-6 text-white text-center">
-        <h2 className="text-4xl font-bold mb-4 text-purple-400">More Coming Soon...</h2>
-        <p className="text-gray-300 max-w-2xl">
-          Stay tuned for my Achievements, Projects, and Contact sections!
-        </p>
-      </section>
     </div>
     
   )
